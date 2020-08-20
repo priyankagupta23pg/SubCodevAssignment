@@ -1,0 +1,318 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:1:1-47:12
+MERGED from [com.facebook.flipper:flipper:0.33.1] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\jetified-flipper-0.33.1.aar\43a5e6f3d2e259a99d75d7cb4d4ffc3d\AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\flipper-network-plugin-0.33.1.aar\2177841453edea2b02f9fb2fd45feace\AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\flipper-fresco-plugin-0.33.1.aar\9e4401d3fd01134b9cdc429eba6276ea\AndroidManifest.xml:8:1-15:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\multidex-2.0.0.aar\49c39fa9022cdc237737b98cb45a760a\AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-community_masked-view] D:\Reactt\ToDOAssignment - Copy\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] D:\Reactt\ToDOAssignment - Copy\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] D:\Reactt\ToDOAssignment - Copy\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] D:\Reactt\ToDOAssignment - Copy\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] D:\Reactt\ToDOAssignment - Copy\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-splash-screen] D:\Reactt\ToDOAssignment - Copy\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-vector-icons] D:\Reactt\ToDOAssignment - Copy\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.62.2] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.62.2.aar\b03c0b5369a807a0352f7ffc6489d016\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\41b626f2bef99219e004926688790d0d\AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\android-jsc-r245459.aar\c49d82979948c6dc213fd2ca3a06f164\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\flipper-2.0.0.aar\d4bb6737293794a71a10d61ce38bf41b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\stetho-2.0.0.aar\8afc8be70aa38c95e08eaa9fe79cd2e2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\fresco-2.0.0.aar\2d4143faf699d20c0c1d927df639c0ec\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-2.0.0.aar\c42032981c9c2cdfd2e8a796d0adcb50\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\drawee-2.0.0.aar\508c450a6fbd08a84483750085bf3f29\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\nativeimagefilters-2.0.0.aar\b371fee1fcf1ac365d8330d91ac670a4\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\imagepipeline-2.0.0.aar\6846e647c9fe5e5ba0678c45c54a3834\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\nativeimagetranscoder-2.0.0.aar\479ca2544481d0ef5c7c242e17ed6da9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-2.0.0.aar\6e939212f7bbaf2475cd028026ed8ab9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.2] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\soloader-0.8.2.aar\67d32042adf26a4b32f6a054d23a254e\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\material-1.1.0.aar\a23e3e87222326ffc7fc833d991c0023\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\76698f01933a2ecc98dbdd2ae2395346\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\5fe35bd67d82251411e757f6a346a805\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\3eaf7068065c6221aa860d1628fa4641\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\ea47f63ee082a746d2621648db17fc11\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\viewpager2-1.0.0.aar\b6a92548cf01b516233cf76f0316842f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\fragment-1.2.1.aar\931645ea9c65e462aa2ebd616a16553a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0.aar\ef46574d6c60706271ea7b9cd615c63a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\d6d320063dba27d1680c5ce1f7f83ba1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\7069acaa5592abf3ffe81714b4739468\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\f4d313745c94b07c853c3c27405b2a5e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\activity-1.1.0.aar\41088dfc7d0399666500f4f76d74c604\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0.aar\87d4bf79f6c8f44eaa08472018173554\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\c9fbef4cc576a7aa8bde9cf299b1474a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\transition-1.2.0.aar\49b7891376efff41f1d3475b8217ef86\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\12155500d4e2ef54405e5e6d380e2550\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\2974464e86a52247403db15e4c878028\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\99edb6e3ae150ea1ae6135610af943fc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\d6f504bc55433f10aa1a82f447a22426\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-savedstate-2.2.0.aar\5f2ba732de6fd317b10e59ea31b1c26f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.2.0.aar\20b86da7924b92230556634fc8c77c91\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\3367cedd384f93925018047a490d8b91\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\b1ad191aad2626decf914b7cf06c6c32\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\694cae607e91efa46dfe1256bca00b7e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\c4566278bafb34309849c63c4a7b5ae4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.2.0.aar\62a3e56216cb5837a5a700c40222e11e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\core-runtime-2.1.0.aar\b92a4e5ae3cd31e214a86a172654078b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.soloader:annotation:0.8.2] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\annotation-0.8.2.aar\cdb1c75481b812bf21542fe1147b51d1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-2.0.0.aar\4c0f3bcd67996a4ebd5649069208aeba\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:1:1-47:12
+	package
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:2:3-29
+		INJECTED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:1:1-47:12
+		INJECTED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:1:1-47:12
+		INJECTED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.33.1] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\jetified-flipper-0.33.1.aar\43a5e6f3d2e259a99d75d7cb4d4ffc3d\AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.33.1] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\jetified-flipper-0.33.1.aar\43a5e6f3d2e259a99d75d7cb4d4ffc3d\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:6:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.CAMERA
+ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:10:5-64
+	android:name
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:10:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:11:5-85
+	android:required
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:11:58-82
+	android:name
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.front
+ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:12:5-91
+	android:required
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:12:64-88
+	android:name
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:12:19-63
+application
+ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:13:5-45:19
+MERGED from [:react-native-splash-screen] D:\Reactt\ToDOAssignment - Copy\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] D:\Reactt\ToDOAssignment - Copy\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.62.2] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.62.2.aar\b03c0b5369a807a0352f7ffc6489d016\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.62.2] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.62.2.aar\b03c0b5369a807a0352f7ffc6489d016\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\soloader-0.8.2.aar\67d32042adf26a4b32f6a054d23a254e\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\soloader-0.8.2.aar\67d32042adf26a4b32f6a054d23a254e\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\material-1.1.0.aar\a23e3e87222326ffc7fc833d991c0023\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\material-1.1.0.aar\a23e3e87222326ffc7fc833d991c0023\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\2974464e86a52247403db15e4c878028\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\2974464e86a52247403db15e4c878028\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\d6f504bc55433f10aa1a82f447a22426\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\d6f504bc55433f10aa1a82f447a22426\AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:annotation:0.8.2] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\annotation-0.8.2.aar\cdb1c75481b812bf21542fe1147b51d1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.2] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\annotation-0.8.2.aar\cdb1c75481b812bf21542fe1147b51d1\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\2974464e86a52247403db15e4c878028\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:15:7-39
+	android:roundIcon
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:17:7-39
+	android:icon
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:16:7-34
+	android:allowBackup
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:18:7-34
+	android:theme
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:22:7-38
+	android:networkSecurityConfig
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:19:9-69
+	android:usesCleartextTraffic
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:21:9-44
+	android:name
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:14:7-54
+activity#com.ecademictube.MainActivity
+ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:26:9-43:18
+	android:screenOrientation
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:29:13-52
+	android:label
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:28:9-41
+	android:launchMode
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:31:9-40
+	android:windowSoftInputMode
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:32:9-51
+	android:configChanges
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:30:13-90
+	android:name
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:27:9-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:33:9-36:25
+action#android.intent.action.MAIN
+ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:34:13-65
+	android:name
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:34:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:35:23-70
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:ankurchawla.net+data:scheme:https
+ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:37:13-42:29
+	android:label
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:37:28-60
+action#android.intent.action.VIEW
+ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:39:27-73
+category#android.intent.category.BROWSABLE
+ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:40:17-78
+	android:name
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:40:27-75
+data
+ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:41:17-79
+	android:host
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:41:46-76
+	android:scheme
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:41:23-45
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:44:7-84
+	android:name
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml:44:17-81
+uses-sdk
+INJECTED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.33.1] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\jetified-flipper-0.33.1.aar\43a5e6f3d2e259a99d75d7cb4d4ffc3d\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.33.1] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\jetified-flipper-0.33.1.aar\43a5e6f3d2e259a99d75d7cb4d4ffc3d\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\flipper-network-plugin-0.33.1.aar\2177841453edea2b02f9fb2fd45feace\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\flipper-network-plugin-0.33.1.aar\2177841453edea2b02f9fb2fd45feace\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\flipper-fresco-plugin-0.33.1.aar\9e4401d3fd01134b9cdc429eba6276ea\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\flipper-fresco-plugin-0.33.1.aar\9e4401d3fd01134b9cdc429eba6276ea\AndroidManifest.xml:11:5-13:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\multidex-2.0.0.aar\49c39fa9022cdc237737b98cb45a760a\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\multidex-2.0.0.aar\49c39fa9022cdc237737b98cb45a760a\AndroidManifest.xml:20:5-43
+MERGED from [:react-native-community_masked-view] D:\Reactt\ToDOAssignment - Copy\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] D:\Reactt\ToDOAssignment - Copy\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] D:\Reactt\ToDOAssignment - Copy\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] D:\Reactt\ToDOAssignment - Copy\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] D:\Reactt\ToDOAssignment - Copy\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] D:\Reactt\ToDOAssignment - Copy\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] D:\Reactt\ToDOAssignment - Copy\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] D:\Reactt\ToDOAssignment - Copy\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] D:\Reactt\ToDOAssignment - Copy\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] D:\Reactt\ToDOAssignment - Copy\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] D:\Reactt\ToDOAssignment - Copy\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] D:\Reactt\ToDOAssignment - Copy\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\Reactt\ToDOAssignment - Copy\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\Reactt\ToDOAssignment - Copy\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.62.2.aar\b03c0b5369a807a0352f7ffc6489d016\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.62.2.aar\b03c0b5369a807a0352f7ffc6489d016\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\41b626f2bef99219e004926688790d0d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\41b626f2bef99219e004926688790d0d\AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\android-jsc-r245459.aar\c49d82979948c6dc213fd2ca3a06f164\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\android-jsc-r245459.aar\c49d82979948c6dc213fd2ca3a06f164\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\flipper-2.0.0.aar\d4bb6737293794a71a10d61ce38bf41b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\flipper-2.0.0.aar\d4bb6737293794a71a10d61ce38bf41b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\stetho-2.0.0.aar\8afc8be70aa38c95e08eaa9fe79cd2e2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\stetho-2.0.0.aar\8afc8be70aa38c95e08eaa9fe79cd2e2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\fresco-2.0.0.aar\2d4143faf699d20c0c1d927df639c0ec\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\fresco-2.0.0.aar\2d4143faf699d20c0c1d927df639c0ec\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-2.0.0.aar\c42032981c9c2cdfd2e8a796d0adcb50\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-2.0.0.aar\c42032981c9c2cdfd2e8a796d0adcb50\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\drawee-2.0.0.aar\508c450a6fbd08a84483750085bf3f29\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\drawee-2.0.0.aar\508c450a6fbd08a84483750085bf3f29\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\nativeimagefilters-2.0.0.aar\b371fee1fcf1ac365d8330d91ac670a4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\nativeimagefilters-2.0.0.aar\b371fee1fcf1ac365d8330d91ac670a4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\imagepipeline-2.0.0.aar\6846e647c9fe5e5ba0678c45c54a3834\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\imagepipeline-2.0.0.aar\6846e647c9fe5e5ba0678c45c54a3834\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\nativeimagetranscoder-2.0.0.aar\479ca2544481d0ef5c7c242e17ed6da9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\nativeimagetranscoder-2.0.0.aar\479ca2544481d0ef5c7c242e17ed6da9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-2.0.0.aar\6e939212f7bbaf2475cd028026ed8ab9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-2.0.0.aar\6e939212f7bbaf2475cd028026ed8ab9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\soloader-0.8.2.aar\67d32042adf26a4b32f6a054d23a254e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\soloader-0.8.2.aar\67d32042adf26a4b32f6a054d23a254e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\material-1.1.0.aar\a23e3e87222326ffc7fc833d991c0023\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\material-1.1.0.aar\a23e3e87222326ffc7fc833d991c0023\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\76698f01933a2ecc98dbdd2ae2395346\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\76698f01933a2ecc98dbdd2ae2395346\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\5fe35bd67d82251411e757f6a346a805\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\5fe35bd67d82251411e757f6a346a805\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\3eaf7068065c6221aa860d1628fa4641\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\3eaf7068065c6221aa860d1628fa4641\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\ea47f63ee082a746d2621648db17fc11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\ea47f63ee082a746d2621648db17fc11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\viewpager2-1.0.0.aar\b6a92548cf01b516233cf76f0316842f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\viewpager2-1.0.0.aar\b6a92548cf01b516233cf76f0316842f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\fragment-1.2.1.aar\931645ea9c65e462aa2ebd616a16553a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\fragment-1.2.1.aar\931645ea9c65e462aa2ebd616a16553a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0.aar\ef46574d6c60706271ea7b9cd615c63a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0.aar\ef46574d6c60706271ea7b9cd615c63a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\d6d320063dba27d1680c5ce1f7f83ba1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\d6d320063dba27d1680c5ce1f7f83ba1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\7069acaa5592abf3ffe81714b4739468\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\7069acaa5592abf3ffe81714b4739468\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\f4d313745c94b07c853c3c27405b2a5e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\f4d313745c94b07c853c3c27405b2a5e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\activity-1.1.0.aar\41088dfc7d0399666500f4f76d74c604\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\activity-1.1.0.aar\41088dfc7d0399666500f4f76d74c604\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0.aar\87d4bf79f6c8f44eaa08472018173554\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0.aar\87d4bf79f6c8f44eaa08472018173554\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\c9fbef4cc576a7aa8bde9cf299b1474a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\c9fbef4cc576a7aa8bde9cf299b1474a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\transition-1.2.0.aar\49b7891376efff41f1d3475b8217ef86\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\transition-1.2.0.aar\49b7891376efff41f1d3475b8217ef86\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\12155500d4e2ef54405e5e6d380e2550\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\12155500d4e2ef54405e5e6d380e2550\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\2974464e86a52247403db15e4c878028\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\2974464e86a52247403db15e4c878028\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\99edb6e3ae150ea1ae6135610af943fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\99edb6e3ae150ea1ae6135610af943fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\d6f504bc55433f10aa1a82f447a22426\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\d6f504bc55433f10aa1a82f447a22426\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-savedstate-2.2.0.aar\5f2ba732de6fd317b10e59ea31b1c26f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-savedstate-2.2.0.aar\5f2ba732de6fd317b10e59ea31b1c26f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.2.0.aar\20b86da7924b92230556634fc8c77c91\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.2.0.aar\20b86da7924b92230556634fc8c77c91\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\3367cedd384f93925018047a490d8b91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\3367cedd384f93925018047a490d8b91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\b1ad191aad2626decf914b7cf06c6c32\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\b1ad191aad2626decf914b7cf06c6c32\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\694cae607e91efa46dfe1256bca00b7e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\694cae607e91efa46dfe1256bca00b7e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\c4566278bafb34309849c63c4a7b5ae4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\c4566278bafb34309849c63c4a7b5ae4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.2.0.aar\62a3e56216cb5837a5a700c40222e11e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.2.0.aar\62a3e56216cb5837a5a700c40222e11e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\core-runtime-2.1.0.aar\b92a4e5ae3cd31e214a86a172654078b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\core-runtime-2.1.0.aar\b92a4e5ae3cd31e214a86a172654078b\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\annotation-0.8.2.aar\cdb1c75481b812bf21542fe1147b51d1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\annotation-0.8.2.aar\cdb1c75481b812bf21542fe1147b51d1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-2.0.0.aar\4c0f3bcd67996a4ebd5649069208aeba\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-2.0.0.aar\4c0f3bcd67996a4ebd5649069208aeba\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Reactt\ToDOAssignment - Copy\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.33.1] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\jetified-flipper-0.33.1.aar\43a5e6f3d2e259a99d75d7cb4d4ffc3d\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.33.1] C:\Users\Priyanka Gupta\.gradle\caches\transforms-1\files-1.1\jetified-flipper-0.33.1.aar\43a5e6f3d2e259a99d75d7cb4d4ffc3d\AndroidManifest.xml:16:22-73
